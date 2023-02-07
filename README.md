@@ -8,7 +8,7 @@
 
 ## Photo 🎴
    <div align='center' >
-   <img src="./src/assets/movie.gif">
+   <img src="./img/anime.gif">
   
    </div>
 
@@ -41,7 +41,7 @@
    
    <h3 align="center"> Technologies used in the project 🙃 </h3>
    
-   <img src='./src/assets/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
+   <img src='./img/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
